@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test page</title>
+</head>
+<body>
+	<h1>Hey. I'm a big heading</h1>
+	<p>Hey. I'm a <b>paragraph element</b>. Cool huh?</p>
+	<img src="img/bubba.jpeg">
+	<img src="https://nortonsafe.search.ask.com/search?&chn=Default&cmpgn=&ctype=pictures&doi=&enc=0&geo=&guid=&o=APN11908&p2=%5EEQ%5Ecd00au%5E&page=1&prt=&q=cat&tpr=10&trackId=&ver=&imgs=1p&filter=on&imgDetail=true"></body>
+<html>
